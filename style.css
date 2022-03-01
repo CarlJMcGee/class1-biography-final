@@ -1,0 +1,41 @@
+body {
+    background-color: rgb(245, 195, 176);
+}
+
+/* title */
+    h1 {
+        text-align: center;
+    }
+
+/* pic */
+    #mePic {
+        width: 30%;
+        height: 30%;
+        position: relative;
+        left: 35%;
+    }
+
+/* about */
+    .about {
+        margin-left: 15%;
+    }
+    h2#carl {
+        border-style: hidden hidden solid hidden;
+        width: fit-content;
+        margin-left: 15%;
+    }
+
+    #plot {
+        text-align: justify;
+    }
+
+    #listA {
+        margin-left: 65%;
+    
+    }
+
+/* Contact info */
+    li.contact {
+        float: left;
+        padding: 1em;
+    }
